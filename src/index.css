@@ -14,6 +14,16 @@
   background-color: var(--amber-500);
 }
 
+.text-amber {
+  color: var(--amber-500);
+}
+
 .text-alabaster {
   color: var(--alabaster-500);
+}
+
+@utility container {
+  padding: 20px;
+  max-width: 1280px;
+  margin: auto;
 }
